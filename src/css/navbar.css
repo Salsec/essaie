@@ -1,0 +1,4 @@
+.flag{
+    height: 5px;
+    background:linear-gradient(45deg,red, yellow,green) ;
+}
