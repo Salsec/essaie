@@ -5,7 +5,7 @@ import './App.css';
 
 import {Navbarre} from './components/navbar';
 import Carousels from './components/carousel';
-import CardExample from './components/card_items';
+import Cards from './components/cards';
 import Footer from './components/footer';
 
 
@@ -15,9 +15,8 @@ function App() {
     <Navbarre/>
     <Carousels />
     <Container fluid>
-      <CardExample />
+      <Cards />
     </Container>
-
     <Footer />
      
     </div>
